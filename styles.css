@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1, h6 {text-align: center;}
+
+.gnocchi{background-color:#A6BD95;color:#FBF1CA}
+.gnocchi h1, .gnocchihome {color:#fff6d4;}
+.gnocchi h3{color:#3F3A1F;}
+.gnocchi em{color:#006C5F}
+.gnocchi table th {color:#3F3A1F}
+
+
+.pesto{background-color:#F6F2CB;color:#B0AD58}
+.pesto h1, .pestohome {color:#797926;}
+.pesto h3{color:#494738;}
+.pesto em{color:#8E7459}
+.pesto table th {color:#494738}
+.pesto ol img {height:auto;width:200px}
+
+
+.tomato{background-color:#FFF6F2;color:#BA8475}
+.tomato h1, .tomatohome {color:#b21807;}
+.tomato h3{color:#582B39;}
+.tomato table th {color:#582B39}
